@@ -6,7 +6,7 @@ My core skills include Python, Machine Learning, Natural Language Processing, an
 
 Beyond academics and research, I enjoy exploring different cultures through travel.
 
-# Fun Facts
+### Fun Facts
 
 -  I can listen to the same song on repeat for hours.
 -  Cigarettes have helped me debug more problems than I'd like to admit.
