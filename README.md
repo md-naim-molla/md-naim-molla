@@ -1,5 +1,15 @@
 ## Hi there 👋
 
-Hi, I am naim, currently I am pursuing my master’s program from Department of Statistics, University of Rajshahi, Bangladesh. I was born and brought up in Pabna where I completed my SSC and HSC. I’m presently learning and working on Machine Learning and Data Science. Beyond academics, I am also passionate about philosophy and Geopolitics.
+I'm Naim, currently pursuing a Master's degree in Statistics at the University of Rajshahi, Bangladesh.
 
-I love exploring different cultures through travel
+I am also an AI Researcher at the Data Science Laboratory in the same department.
+
+My core skills include Python, Machine Learning, Natural Language Processing, and Statistical Analysis.
+
+Beyond academics and research, I enjoy exploring different cultures through travel.
+
+## Fun Facts
+
+-  I can listen to the same song on repeat for hours.
+-  Cigarettes have helped me debug more problems than I'd like to admit.
+-  I love building things just to see if they work.
